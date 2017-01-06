@@ -1,0 +1,78 @@
+Python 3.4.4 (v3.4.4:737efcadf5a6, Dec 20 2015, 19:28:18) [MSC v.1600 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: H:\computer programing\intro to Python\guess_a_number_ai_GraceGumpert.py 
+**//**//**//**//**//**//**//**//**//**//
+**                                    **
+**           Guess-A-Number!          **
+**                                    **
+**        Press ENTER to play!        **
+**                                    **
+**                                    **
+**//**//**//**//**//**//**//**//**//**//
+
+Please enter your name here.
+Grace
+Hi,Grace
+Let's play a game!
+Please think of a number from 1 to 100000000 and I will try to guess what it is 1 to 100000000.
+I will try to guess, and you will tell me if I am right or wrong.
+Please press enter to begain the game.
+
+Is the number 50000000?
+Grace,Say either higher,lower,or yes.lower
+Is the number 25000000?
+Grace,Say either higher,lower,or yes.lower
+Is the number 12500000?
+Grace,Say either higher,lower,or yes.lower
+Is the number 6250000?
+Grace,Say either higher,lower,or yes.lower
+Is the number 3125000?
+Grace,Say either higher,lower,or yes.lower
+Is the number 1562500?
+Grace,Say either higher,lower,or yes.lower
+Is the number 781250?
+Grace,Say either higher,lower,or yes.lower
+Is the number 390625?
+Grace,Say either higher,lower,or yes.lower
+Is the number 195312?
+Grace,Say either higher,lower,or yes.lower
+Is the number 97656?
+Grace,Say either higher,lower,or yes.lower
+Is the number 48828?
+Grace,Say either higher,lower,or yes.lower
+Is the number 24414?
+Grace,Say either higher,lower,or yes.lower
+Is the number 12207?
+Grace,Say either higher,lower,or yes.lower
+Is the number 6103?
+Grace,Say either higher,lower,or yes.lower
+Is the number 3051?
+Grace,Say either higher,lower,or yes.lower
+Is the number 1525?
+Grace,Say either higher,lower,or yes.lower
+Is the number 762?
+Grace,Say either higher,lower,or yes.lower
+Is the number 381?
+Grace,Say either higher,lower,or yes.lower
+Is the number 190?
+Grace,Say either higher,lower,or yes.lower
+Is the number 95?
+Grace,Say either higher,lower,or yes.lower
+Is the number 47?
+Grace,Say either higher,lower,or yes.lower
+Is the number 23?
+Grace,Say either higher,lower,or yes.lower
+Is the number 11?
+Grace,Say either higher,lower,or yes.lower
+Is the number 5?
+Grace,Say either higher,lower,or yes.higher
+Is the number 8?
+Grace,Say either higher,lower,or yes.lower
+Is the number 6?
+Grace,Say either higher,lower,or yes.higher
+Is the number 7?
+Grace,Say either higher,lower,or yes.yes
+Yay! I got it right.
+I guessed the right answer in 26 tries!
+Would you like to play again? 
